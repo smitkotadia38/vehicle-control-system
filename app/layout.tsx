@@ -13,10 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Vehicle Control System",
+  title: "Impala Cabo | Vehicle Control",
   description: "Vehicle Control System",
   icons: {
-    icon: "/logo.png",
+    icon: [{ url: "/logo.png", type: "image/png" }],
   },
 };
 
